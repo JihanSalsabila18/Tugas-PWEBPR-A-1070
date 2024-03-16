@@ -1,0 +1,466 @@
+body 
+    {
+    margin: 0;
+    padding: 0;
+    width: 1280px;
+    height: 879px;
+    top: -1016px;
+    left: -423px;
+    gap: 50px;
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+    display:flex;
+    justify-content: center; /* Menengahkan secara horizontal */
+    align-items: center;
+    }
+.container 
+    {
+    width: 100%;
+    margin: 0 auto;
+    width: 1280px;
+    height: 879px;
+    background-color: white;
+    text-align: center;
+    }
+header 
+    {
+    background-color: white;
+    color: black;
+    padding: 20px 0;
+    text-align: center;
+    width: 1280px;
+    }
+menu
+    {
+    background-color: #D9D9D9;
+    color: black;
+    padding: 20px 0;
+    text-align: center;
+    text-align: justify;
+    width: 1280px;
+    height: 50px;
+    }
+menu ul 
+    {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+menu ul li 
+    {
+    display: inline;
+    margin-right: 20px;
+    text-align: center;
+    }
+.boxtentara
+    {
+    width: 490px;
+    height: 230px;
+    top: 143px;
+    left: 131px;
+    border-radius: 20px;
+    }
+.subboxtentara
+    {
+        width: 490px;
+        height: 180px;
+        top: 191px;
+        left: 131px;
+        background-color:#D5FFDD;
+        border-radius: 20px;
+    }
+.tentarajpg
+    {
+        width: 230px;
+        height: 230px;
+        top: 143px;
+        left: 131px;
+        position: absolute;
+        background-image: url('tentara,png');
+          
+    }
+.headertentara
+    {
+        width: 133px;
+        height: 47px;
+        top: 202px;
+        left: 344px;
+        font-family: Poppins;
+        font-size: 32px;
+        font-weight: 500;
+        line-height: 48px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+.prgtentara
+    {
+        width: 240px;
+        height: 21px;
+        top: 252px;
+        left: 347px;
+        font-family: Poppins;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 21px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+.buttontentara
+    {
+        width: 240px;
+        height: 37px;
+        top: 315px;
+        left: 347px;
+        border-radius: 15px;
+        background: #399349;   
+    }
+.container1
+    {
+        display:flex;
+    }
+.flex1
+    {
+        display: flex;
+        flex-direction: row;
+        gap: 27px
+    }
+.flex2
+    {
+        display: flex;
+        flex-direction: column;
+        gap: 27px
+    }
+.flex3
+    {
+        display: flex;
+        flex-direction: column;
+        gap: 18px
+    }
+.boxkontraktor
+    {
+        width: 235px;
+        height: 200px;
+        top: 403px;
+        left: 131px;
+        border-radius: 20px;
+        background: #FFF4DC;
+    }
+.kontraktorjpg
+    {
+        width: 173.7px;
+        height: 170px;
+        top: 413px;
+        left: 161.65px;
+    }
+.buttonkontraktor
+    {
+        width: 173px;
+        height: 37px;
+        top: 538px;
+        left: 162px;
+        border-radius: 15px ;  
+        background: #E29A00;
+    }
+.boxpramugari
+    {
+        width: 235px;
+        height: 180px;
+        top: 615px;
+        left: 131px;
+        border-radius: 20px;
+        background: #FFCED7; 
+    }
+.pramugarijpg
+    {
+        width: 170px;
+        height: 170px;
+        top: 626px;
+        left: 162px;
+        background-size: cover;
+    }
+.buttonpramugari
+    {
+        width: 173px;
+        height: 37px;
+        top: 750px;
+        left: 162px;
+        border-radius: 15px;
+        background: #FF5573; 
+    }
+.boxfotographer
+    {
+        width: 230px;
+        height: 392px;
+        top: 403px;
+        left: 392px;
+        border-radius: 20px ;
+        background: #E2F2FF;
+    }
+.fotographerjpg
+    {
+        width: 160px;
+        height: 160px;
+        top: 439px;
+        left: 427px;
+    }
+.headerfotographer
+    {
+        width: 133px;
+        height: 30px;
+        top: 612px;
+        left: 440px;
+        font-family: Poppins;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+.prgfotographer
+    {
+        width: 133px;
+        height: 54px;
+        top: 655px;
+        left: 440px;
+        font-family: Poppins;
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 18px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+.buttonfotographer
+    {
+        width: 173px;
+        height: 37px;
+        top: 722px;
+        left: 420px;
+        border-radius: 15px;
+        background: #3279AF;
+    }
+.boxgabungan
+    {
+        width: 500px;
+        height: 392px;
+        top: 191px;
+        left: 649px;
+        gap: 10px;
+        border-radius: 20px;
+        background: #F2F2F2;
+
+    }
+.boxdokter
+    {
+        width: 423px;
+        height: 96px;
+        border: 1;
+        top: 34px;
+        left: 40px;
+        border-radius: 20px; 
+        border-style: solid;
+        border-color: #D8D6C1;  
+        background-color: #ffff;
+    }
+.dokterjpg
+    {
+        width: 70px;
+        height: 70px;
+        top: 47px;
+        left: 56px;
+    }
+.headerdokter
+    {
+        width: 133px;
+        height: 30px;
+        top: 60px;
+        left: 132px;
+        font-family: Poppins;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: left;
+        -webkit-text-fill-color: #000000;
+    }
+.buttondokter
+    {
+        width: 149px;
+        height: 22px;
+        top: 95px;
+        left: 132px;
+        border-radius: 10px;
+        background: #D8D6C1;
+    }
+.boxpilot
+    {
+        width: 423px;
+        height: 96px;
+        top: 148px;
+        left: 40px;
+        border-radius: 20px; 
+        border-style: solid;
+        background: #FFFFFF;
+        border-color: #D8D6C1;
+    }
+.pilotjpg
+    {
+        width: 70px;
+        height: 70px;
+        top: 161px;
+        left: 56px;
+    }
+.headerpilot
+    {
+        width: 133px;
+        height: 30px;
+        top: 174px;
+        left: 132px;
+        font-family: Poppins;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+.buttonpilot
+    {
+        width: 149px;
+        height: 22px;
+        top: 210px;
+        left: 132px;
+        border-radius: 10px;  
+        background: #D8D6C1;
+
+    }
+.boxilmuan
+    {
+        width: 423px;
+        height: 96px;
+        top: 262px;
+        left: 40px;
+        border-radius: 20px  ; 
+        border: 1px;
+        border-style: solid;
+        background-color: #FFFFFF;
+        border-color:#D8D6C1;
+    }
+.ilmuanjpg
+    {
+        width: 70px;
+        height: 70px;
+        top: 273px;
+        left: 56px;
+    }
+.headerilmuan
+    {
+        width: 133px;
+        height: 30px;
+        top: 288px;
+        left: 132px;
+        font-family: Poppins;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+.buttonilmuan
+    {
+        width: 149px;
+        height: 22px;
+        top: 321px;
+        left: 132px;
+        border-radius: 10px ;
+        background-color: #D8D6C1;
+        ;  
+
+    }
+.boxgabungan2
+    {
+        width: 500px;
+        height: 181px;
+        top: 615px;
+        left: 649px;
+        border-radius: 20px;
+        background: #F2F2F2;
+    }
+.boxpembalap
+    {
+        width: 230px;
+        height: 120px;
+    }
+.pembalapjpg
+    {
+        width: 120px;
+        height: 120px;
+        top: 30px;
+        left: 14px;
+    }
+.headerpembalap
+    {
+        width: 82px;
+        height: 23px;
+        top: 63px;
+        left: 144px;
+        font-family: Poppins;
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 23px;
+        letter-spacing: 0em;
+        text-align: left;
+        -webkit-text-fill-color: #000000;
+    }
+.buttonpembalap
+    {
+        width: 100px;
+        height: 55px;
+        top: 95px;
+        left: 144px;
+        border-radius: 10px;
+        background: #D8D6C1;
+  
+    }
+.boxastronot
+    {
+        width: 226px;
+        height: 120px;
+
+    }
+.astronotjpg
+    {
+        width: 120px;
+        height: 120px;
+        top: 30px;
+        left: 259px;
+            background-image: url('C:\Users\deddy\OneDrive\Dokumen\COLLEGE\SEMESTER 4\PWEB\asset profesi\astronot');
+            background-size: cover; /* agar gambar mencakup seluruh area */;
+          }
+          
+    }
+.headerastronot
+    {
+        width: 82px;
+        height: 23px;
+        top: 63px;
+        left: 389px;
+        font-family: Poppins;
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 23px;
+        letter-spacing: 0em;
+        text-align: left;
+        background: #000000;
+        -webkit-background-clip: text; 
+        -webkit-text-fill-color: transparent;
+
+    }
+.buttonastronot
+    {
+        width: 100px;
+        height: 55px;
+        top: 95px;
+        left: 385px;
+        border-radius: 10px ;
+        background: #D8D6C1;
+    }

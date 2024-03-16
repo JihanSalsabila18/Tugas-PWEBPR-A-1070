@@ -1,0 +1,291 @@
+
+body 
+    {
+
+    width: 425px;
+    height: 2748px;
+    top: -1016px;
+    left: 1654px;
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+    text-align: center;
+    text-align: justify;
+    
+    }
+
+.container 
+    {
+    width: 425px;
+    height: 2748px;
+    background-color: white;
+    text-align: center;
+    text-align: justify;
+      }
+      
+header 
+    {
+    background-color: white;
+    color: black;
+    text-align: center;
+    width: 425px;
+    text-align: justify;
+    }
+menu
+    {
+    background-color: #D9D9D9;
+    color: black;
+    text-align: center;
+    text-align: justify;
+    width: 425px;
+    height: 75px;
+    }
+    menu ul 
+    {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-align: justify;
+    }
+menu ul li 
+    {
+    display: inline;
+    margin-right: 20px;
+    text-align: center;
+    text-align: justify;
+    }
+.flex
+    {
+        display: flex;
+        flex-direction: column;
+        gap: 40px
+
+    }
+.boxtentara
+    {
+        width: 289px;
+        height: 347px;
+        top: 132px;
+        left: 69px;
+        text-align: center;
+    }
+.subboxtentara
+    {
+        width: 289px;
+        height: 299px;
+        top: 180px;
+        left: 69px;
+        border-radius: 20px;
+        background: #D5FFDD; 
+        text-align: center;
+    }
+.boxkontraktor
+    {
+        width: 288.53px;
+        height: 299px;
+        top: 508px;
+        left: 69px;
+        border-radius: 20px;
+        background: #FFF4DC;
+        text-align: center;
+    }
+.boxpramugari
+    {
+        width: 288.53px;
+        height: 299px;
+        top: 508px;
+        left: 69px;
+        border-radius: 20px;
+        background: #FFCED7;
+        text-align: center;
+    }
+.boxfotographer
+    {
+        width: 289px;
+        height: 299px;
+        top: 132px;
+        left: 69px;
+        border-radius: 20px;
+        text-align: center;
+    }
+.subboxfotographer
+    {
+        width: 289px;
+        height: 299px;
+        top: 180px;
+        left: 69px;
+        border-radius: 20px;
+        background: #E2F2FF; 
+        text-align: center;
+    }
+.boxdokter
+    {
+        width: 288.53px;
+        height: 299px;
+        top: 508px;
+        left: 69px;
+        border-radius: 20px;
+        text-align: center;
+    }
+.subboxdokter
+    {
+        width: 289px;
+        height: 299px;
+        top: 180px;
+        left: 69px;
+        border-radius: 20px;
+        background: #E9E8E2;
+        text-align: center;
+    }
+.boxpilot
+    {
+        width: 288.53px;
+        height: 299px;
+        top: 508px;
+        left: 69px;
+        border-radius: 20px;
+        text-align: center;
+    }
+.subboxpilot
+    {
+        width: 289px;
+        height: 299px;
+        top: 180px;
+        left: 69px;
+        border-radius: 20px;
+        background: #E9E8E2;
+        text-align: center;
+    }
+.boxilmuan
+    {
+        width: 288.53px;
+        height: 299px;
+        top: 508px;
+        left: 69px;
+        border-radius: 20px;
+        text-align: center;
+    }
+.subboxilmuan
+    {
+        width: 289px;
+        height: 299px;
+        top: 180px;
+        left: 69px;
+        border-radius: 20px;
+        background: #E9E8E2;
+        text-align: center;
+    }
+.boxpembalap
+    {
+        width: 288.53px;
+        height: 299px;
+        top: 508px;
+        left: 69px;
+        border-radius: 20px;
+        text-align: center;
+    }
+.subboxpembalap
+    {
+        width: 289px;
+        height: 299px;
+        top: 180px;
+        left: 69px;
+        border-radius: 20px;
+        background: #FFDBC5;
+        text-align: center;
+    }
+.boxastronot
+    {
+        width: 288.53px;
+        height: 299px;
+        top: 508px;
+        left: 69px;
+        border-radius: 20px;
+        text-align: center;
+    }
+.subboxastronot
+    {
+        width: 289px;
+        height: 299px;
+        top: 180px;
+        left: 69px;
+        border-radius: 20px;
+        background: #8FC5ED;
+        text-align: center;
+    }
+.buttonkontraktor
+    {
+        width: 212.41px;
+        height: 45.43px;
+        top: 673.75px;
+        left: 107.06px;
+        border-radius: 15 px;
+        text-align: center;
+        -webkit-text-fill-color: white;
+        background: #E29A00;
+        margin-bottom: 10px;
+    }
+
+.buttontentara
+    {
+        width: 212.41px;
+        height: 45.43px;
+        top: 673.75px;
+        left: 107.06px;
+        border-radius: 15 px;
+        text-align: center;
+        -webkit-text-fill-color: white;
+        background:#399349;
+        margin-bottom: 10px;
+    }
+.buttonpramugari
+    {
+        width: 212.41px;
+        height: 45.43px;
+        top: 673.75px;
+        left: 107.06px;
+        border-radius: 15 px;
+        text-align: center;
+        -webkit-text-fill-color: white;
+        background: #FF5573;
+        margin-bottom: 10px;
+    }
+.buttongray
+{
+    width: 212.41px;
+    height: 45.43px;
+    top: 673.75px;
+    left: 107.06px;
+    border-radius: 15 px;
+    text-align: center;
+    -webkit-text-fill-color: white;
+    background: #CAC8B3;
+    margin-bottom: 10px;
+}
+.buttonpembalap
+{
+    width: 212.41px;
+    height: 45.43px;
+    top: 673.75px;
+    left: 107.06px;
+    border-radius: 15 px;
+    text-align: center;
+    -webkit-text-fill-color: white;
+    background: #E36415;
+    margin-bottom: 10px;
+}
+.buttonblue
+{
+    width: 212.41px;
+    height: 45.43px;
+    top: 673.75px;
+    left: 107.06px;
+    border-radius: 15 px;
+    text-align: center;
+    -webkit-text-fill-color: white;
+    background: #275E87;
+    margin-bottom: 10px;
+}
+
+
+
